@@ -1,6 +1,7 @@
 # Geng Shuang Emulator
 
-耿爽模擬器，用於模仿中國外交部發言人耿爽的言論。 [原帖地址(需翻牆)](https://pincong.rocks/article/9938) | [在線體驗](https://jditlee.github.io/)。
+耿爽模擬器，用於模仿中國外交部發言人耿爽的言論。 [原帖地址(需翻牆)](https://pincong.rocks/article/9938) |
+ [在線體驗](https://debtank.github.io/JokerBird/)。
 
 A Geng Shuang speech emulator. Originally created by [xwgmdjc](https://github.com/xwgmdjc).
 
